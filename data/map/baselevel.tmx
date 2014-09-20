@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="shittytileset" tilewidth="32" tileheight="32">
+  <image source="../img/shittytileset.png" width="736" height="672"/>
+ </tileset>
+ <layer name="background" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJyTYWBgkCGAmaGYkDoYZqQSHjVv1LxR84a+edQsXwA6ige/
+  </data>
+ </layer>
+</map>

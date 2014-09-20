@@ -15,6 +15,8 @@ game.resources = [
 	 * {name: "example01", type: "tmx", src: "data/map/example01.tmx"},
 	 * {name: "example01", type: "tmx", src: "data/map/example01.json"},
  	 */
+ 	{ name: "shittytileset", type: "image", src: "data/img/shittytileset.png" },
+ 	{ name: "baselevel", type: "tmx", src: "data/map/baselevel.json" }
 
 	/* Background music. 
 	 * @example
